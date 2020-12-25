@@ -1,2 +1,3 @@
-# origami-designs-2
-Origami designs
+# Origami Designs
+
+Learn origami by following pictorial representations and simple explanations !
